@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-why do i bother with this
+I am a student  of a computing class and am blogging my progress through my lessons.
 ### More Information
-
-i'm not special
+I am learning piece by piece.
 ### Contact me
-
-no contacts because i hate myself
+leo.hargreaves@challoners.org
